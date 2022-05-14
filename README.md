@@ -1,1 +1,3 @@
 This is a guide to making compact and sleek documents in Markdown. Markdown was created by **John Gruber** and **Aaron Swartz**.
+
+Markdown is very different from other **word processors**. Word processors usually have *GUI* to modify text and lock up documents in a proprietary file format. Markdown, however, is universal and can be **rendered on *any* device**. It needs no GUI; all it needs is a Markdown editor, which can be found in a lot of places. There are many online ones available, like [Replit](https://replit.com) and [Github](https://github.com). Many offline Markdown editing applications are also available.
