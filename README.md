@@ -17,3 +17,20 @@ Let's start coding. To create large headlines, you use the **#** tag.
 ###### Headline 6
 ```
 There are **6** different sizes of headline. The headline size depends on the amount of #s you put before the title. In this case, Headline 1 would be the biggest, and Headline 6 the smallest.
+
+You can type plain text to generate plain text.
+
+```markdown
+Here's Some Text
+```
+There are many things you can use to **modify** text in Markdown. For example, if you wanted to make something **bold**, then use double-asteriks:
+
+```markdown
+This is **bold**
+```
+And likewise, to make something *italic*, use single-asteriks:
+```markdown
+This is *italic*
+```
+
+
