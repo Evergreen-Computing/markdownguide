@@ -5,3 +5,15 @@ Markdown is very different from other **word processors**. Word processors usual
 Markdown is designed so that even without a renderer, it is readable. That's why it is such a good language to know if you are into writing.
 
 Markdown is also used widely in web development. Markdown was used to create the very page you are on right now. Many libraries for languages like **Javascript** can help Markdown be displayed on a page instead of **HTML**, or with a service like [Github Pages](https://pages.github.com), which this site is hosted on.
+
+Let's start coding. To create large headlines, you use the **#** tag.
+
+```markdown
+# Headline 1
+## Headline 2
+### Headline 3
+#### Headline 4
+##### Headline 5
+###### Headline 6
+```
+There are **6** different sizes of headline. The headline size depends on the amount of #s you put before the title. In this case, Headline 1 would be the biggest, and Headline 6 the smallest.
