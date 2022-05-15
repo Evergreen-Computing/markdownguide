@@ -32,5 +32,8 @@ And likewise, to make something *italic*, use single-asteriks:
 ```markdown
 This is *italic*
 ```
-
+There is no harm in combining both. To make something both ***bold and italic***, use triple-asteriks:
+```markdown
+***Bold And Italic***
+```
 
