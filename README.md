@@ -32,8 +32,10 @@ And likewise, to make something *italic*, use single-asteriks:
 ```markdown
 This is *italic*
 ```
-There is no harm in combining both. To make something both ***bold and italic***, use triple-asteriks:
+There is no harm in combining both to make something both ***bold and italic***.
+
+To add a snippet of a `command` or `function` in your Markdown file, use the backtick.
 ```markdown
-***Bold And Italic***
+`echo Hello World` is the command in Bash used to print a string to screen.
 ```
 
