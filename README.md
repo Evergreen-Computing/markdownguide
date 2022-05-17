@@ -43,5 +43,9 @@ To add a snippet of a `command` or `function` in your Markdown file, use the bac
 
 [Links](https://evergreen-computing.github.io/markdownguide/) can be added by using a specific notation - in this, you list the link following it's alias.
 ```markdown
-[Link To My Website](https://evergreen-computing.github.io/markdownguide/)
+[The Comprehensive Markdown Guide](https://evergreen-computing.github.io/markdownguide/)
+```
+> To create a **block quote**, use the ">" symbol:
+```markdown
+> "This is a quote" - *Evergreen-Computing*, 2022
 ```
