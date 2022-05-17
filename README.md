@@ -41,3 +41,7 @@ To add a snippet of a `command` or `function` in your Markdown file, use the bac
 `echo Hello World` is the command in Bash used to print a string to screen.
 ```
 
+[Links](https://evergreen-computing.github.io/markdownguide/) can be added by using a specific notation - in this, you list the link following it's alias.
+```markdown
+[Link To My Website](https://evergreen-computing.github.io/markdownguide/)
+```
