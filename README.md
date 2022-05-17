@@ -6,7 +6,9 @@ Markdown is designed so that even without a renderer, it is readable. That's why
 
 Markdown is also used widely in web development. Markdown was used to create the very page you are on right now. Many libraries for languages like **Javascript** can help Markdown be displayed on a page instead of **HTML**, or with a service like [Github Pages](https://pages.github.com), which this site is hosted on.
 
-Let's start coding. To create large headlines, you use the **#** tag.
+Let's get started. Create a file called **`README.md`** and upload it to a Markdown editor.
+
+Now, let's start coding. To create large headlines, you use the **#** tag.
 
 ```markdown
 # Headline 1
