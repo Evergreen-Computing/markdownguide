@@ -48,4 +48,16 @@ To add a snippet of a `command` or `function` in your Markdown file, use the bac
 > To create a **block quote**, use the ">" symbol:
 ```markdown
 > "This is a quote" - *Evergreen-Computing*, 2022
-```
+```  
+  
+ To create an **unordered bullet list**, use the hyphen:
+ 
+ - One
+ - Two
+ - Three
+
+For an ordered list, use numbers:
+
+1. One
+2. Two
+3. Three
