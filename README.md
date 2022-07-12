@@ -56,6 +56,12 @@ To add a snippet of a `command` or `function` in your Markdown file, use the bac
  - Two
  - Three
 
+```markdown
+- One
+- Two
+- Three
+```
+
 For an ordered list, use numbers:
 
 1. One
