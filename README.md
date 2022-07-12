@@ -4,7 +4,7 @@ Markdown is very different from other **word processors**. Word processors usual
 
 Markdown is designed so that even without a renderer, it is readable. That's why it is such a good computer language to know if you are into writing.
 
-Markdown is also used widely in web development. Markdown was used to create the very page you are on right now. Many libraries for languages like **Javascript** can help Markdown be displayed on a page instead of **HTML**, or with a service like [Github Pages](https://pages.github.com), which this site is hosted on.
+Markdown is also used widely in web development. Markdown was used to create the very page you are on right now. Many libraries for languages like **JavaScript** can help Markdown be displayed on a page instead of **HTML**, or with a service like [Github Pages](https://pages.github.com), which this site is hosted on.
 
 Let's get started. Create a file called **`README.md`** and upload it to a Markdown editor.
 
