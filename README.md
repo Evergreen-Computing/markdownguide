@@ -67,3 +67,10 @@ For an ordered list, use numbers:
 1. One
 2. Two
 3. Three
+
+Adding an **image** has similar notation to adding a link.
+![Evergreen Computing](evergreencomputing.png)
+```markdown
+![Evergreen Computing](evergreencomputing.png)
+```
+
