@@ -75,4 +75,8 @@ Adding an **image** has similar notation to adding a link.
 ```markdown
 ![Evergreen Computing](evergreencomputing.png)
 ```
-
+To create a **horizontal rule**, just type 3 hyphens.
+```markdown
+---
+```
+---
